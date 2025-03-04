@@ -1,0 +1,721 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\casestudy2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\casestudy2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\SonyTv.jpg",
+      "PackagePath": "staticwebassets\\assest\\SonyTv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\add.png",
+      "PackagePath": "staticwebassets\\assest\\add.png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\bgimage.avif",
+      "PackagePath": "staticwebassets\\assest\\bgimage.avif"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\bgimage.jpg",
+      "PackagePath": "staticwebassets\\assest\\bgimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\bgimage1.jpg",
+      "PackagePath": "staticwebassets\\assest\\bgimage1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\bgimage3.jpg",
+      "PackagePath": "staticwebassets\\assest\\bgimage3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\camera1.jpg",
+      "PackagePath": "staticwebassets\\assest\\camera1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\chair1.webp",
+      "PackagePath": "staticwebassets\\assest\\chair1.webp"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\heart (1).png",
+      "PackagePath": "staticwebassets\\assest\\heart (1).png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\heart.png",
+      "PackagePath": "staticwebassets\\assest\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\image1.jpg",
+      "PackagePath": "staticwebassets\\assest\\image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\kid1.jpg",
+      "PackagePath": "staticwebassets\\assest\\kid1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\kid2.jpg",
+      "PackagePath": "staticwebassets\\assest\\kid2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\men1.jpg",
+      "PackagePath": "staticwebassets\\assest\\men1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\men2.jpg",
+      "PackagePath": "staticwebassets\\assest\\men2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\menu.png",
+      "PackagePath": "staticwebassets\\assest\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\mi_tv.png",
+      "PackagePath": "staticwebassets\\assest\\mi_tv.png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\minus.png",
+      "PackagePath": "staticwebassets\\assest\\minus.png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\pencil.png",
+      "PackagePath": "staticwebassets\\assest\\pencil.png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\remove.png",
+      "PackagePath": "staticwebassets\\assest\\remove.png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\samsung_mobile.webp",
+      "PackagePath": "staticwebassets\\assest\\samsung_mobile.webp"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\samsung_mobile1.jpg",
+      "PackagePath": "staticwebassets\\assest\\samsung_mobile1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\samsung_tv.webp",
+      "PackagePath": "staticwebassets\\assest\\samsung_tv.webp"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\table1.jpg",
+      "PackagePath": "staticwebassets\\assest\\table1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\assest\\whirlpoolReg.webp",
+      "PackagePath": "staticwebassets\\assest\\whirlpoolReg.webp"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\icons\\menu.png",
+      "PackagePath": "staticwebassets\\icons\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\icons\\shopping-cart.png",
+      "PackagePath": "staticwebassets\\icons\\shopping-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nikhipal\\source\\repos\\casestudy2\\casestudy2\\wwwroot\\lib\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.casestudy2.props",
+      "PackagePath": "build\\casestudy2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.casestudy2.props",
+      "PackagePath": "buildMultiTargeting\\casestudy2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.casestudy2.props",
+      "PackagePath": "buildTransitive\\casestudy2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.casestudy2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

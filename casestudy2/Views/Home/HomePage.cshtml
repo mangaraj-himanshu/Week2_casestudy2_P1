@@ -1,0 +1,24 @@
+﻿@model IEnumerable<casestudy2.Models.Product.Category>
+@{
+    ViewData["Title"] = "HomePage";
+}
+   @Html.Partial("MenuBar")
+    
+
+
+<div class="HomeSection row justify-content-center align-content-center p-4 m-2">
+    <div class="col-6 justify-content-center align-content-center">
+    <div class="row">
+        <h1>One Stop For</h1>
+        <h2>Online Shopping</h2>
+    </div>
+    <div class="row mt-5">
+        <button type="button" class="customButton btn btn-outline-dark btn-rounded" data-mdb-ripple-init data-mdb-ripple-color="dark">
+        <a asp-action="DisplayPage">Start Shopping</a>
+        </button>
+    </div>
+    </div>
+    <div class="col-6">
+        <img class="heroimg" src="~/assest/bgimage3.jpg" />
+    </div>
+</div>

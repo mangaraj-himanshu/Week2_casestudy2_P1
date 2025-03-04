@@ -1,0 +1,15 @@
+Order id - 0 
+Date - 8/2/2024 3:33:09 PM
++User id -416e992a-b9bb-4270-868b-886b7f493a0e
+TotalAMount - 114500
+
+Order id - 0 
+Date - 8/2/2024 4:38:19 PM
+User id -416e992a-b9bb-4270-868b-886b7f493a0e
+TotalAMount - 199000
+
+Order id - 0 
+Date - 8/2/2024 4:48:15 PM
+User id -416e992a-b9bb-4270-868b-886b7f493a0e
+TotalAMount - 373500
+
